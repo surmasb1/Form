@@ -1,0 +1,10 @@
+.accordion_content{
+    background-color: #9f9f9f;
+    overflow: hidden;
+    transition: max-height 0.6s ease;
+}
+.accordion_text {
+    font-weight: 400;
+    font-size: 14px;
+    padding: 18px;
+}
